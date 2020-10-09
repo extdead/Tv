@@ -1,6 +1,6 @@
 #EXTM3U
 ***AVISO***
-#EXTINF:-1 group-title="A - SAT *ATUALIZADO* - (((29.09)))" tvg-logo="https://www.mulheresdenegocio.com.br/wp-content/uploads/2018/07/vip-min.png", SAT *ATUALIZADO* - (((29.09)))
+#EXTINF:-1 group-title="A - EWERTON IPTV *ATUALIZADO* - (((09.10.2020)))" tvg-logo="https://www.mulheresdenegocio.com.br/wp-content/uploads/2018/07/vip-min.png", EWERTON IPTV *ATUALIZADO* - (((09.10.2020)))
 http://srvcliente.me:80/
 ---------------------||--------------------------
 
@@ -77,12 +77,6 @@ http://srvx.io:80/49119217125/snakeplay/71790
 http://srvx.io:80/49119217125/snakeplay/71791
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News SD
 http://srvx.io:80/49119217125/snakeplay/71792
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente FHD
-http://srvx.io:80/49119217125/snakeplay/71793
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente HD
-http://srvx.io:80/49119217125/snakeplay/71794
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente SD
-http://srvx.io:80/49119217125/snakeplay/71795
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | 4K [FHDR]",Band RJ 4K FHDR
 http://srvx.io:80/49119217125/snakeplay/71798
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD
@@ -103,8 +97,6 @@ http://srvx.io:80/49119217125/snakeplay/71802
 http://srvx.io:80/49119217125/snakeplay/71803
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Esportes",Band Sports SD
 http://srvx.io:80/49119217125/snakeplay/71804
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",BBC SD
-http://srvx.io:80/49119217125/snakeplay/71805
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
 http://srvx.io:80/49119217125/snakeplay/71806
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
@@ -113,10 +105,6 @@ http://srvx.io:80/49119217125/snakeplay/71807
 http://srvx.io:80/49119217125/snakeplay/71808
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
 http://srvx.io:80/49119217125/snakeplay/71809
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Bloomberg SD
-http://srvx.io:80/49119217125/snakeplay/71810
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV SD
-http://srvx.io:80/49119217125/snakeplay/71811
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD
 http://srvx.io:80/49119217125/snakeplay/71812
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265]
@@ -139,8 +127,6 @@ http://srvx.io:80/49119217125/snakeplay/71820
 http://srvx.io:80/49119217125/snakeplay/71821
 #EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
 http://srvx.io:80/49119217125/snakeplay/71822
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural SD
-http://srvx.io:80/49119217125/snakeplay/71823
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD
 http://srvx.io:80/49119217125/snakeplay/71824
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
@@ -195,8 +181,6 @@ http://srvx.io:80/49119217125/snakeplay/71838
 http://srvx.io:80/49119217125/snakeplay/71839
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
 http://srvx.io:80/49119217125/snakeplay/71840
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
-http://srvx.io:80/49119217125/snakeplay/71841
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
 http://srvx.io:80/49119217125/snakeplay/71844
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
@@ -217,28 +201,10 @@ http://srvx.io:80/49119217125/snakeplay/71849
 http://srvx.io:80/49119217125/snakeplay/71850
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
 http://srvx.io:80/49119217125/snakeplay/72977
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
-http://srvx.io:80/49119217125/snakeplay/72978
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
 http://srvx.io:80/49119217125/snakeplay/72979
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
 http://srvx.io:80/49119217125/snakeplay/72980
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
-http://srvx.io:80/49119217125/snakeplay/72981
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
-http://srvx.io:80/49119217125/snakeplay/72982
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
-http://srvx.io:80/49119217125/snakeplay/72983
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
-http://srvx.io:80/49119217125/snakeplay/72984
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
-http://srvx.io:80/49119217125/snakeplay/72985
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
-http://srvx.io:80/49119217125/snakeplay/72986
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
-http://srvx.io:80/49119217125/snakeplay/72987
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
-http://srvx.io:80/49119217125/snakeplay/72988
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
 http://srvx.io:80/49119217125/snakeplay/72989
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
@@ -263,12 +229,8 @@ http://srvx.io:80/49119217125/snakeplay/71856
 http://srvx.io:80/49119217125/snakeplay/71857
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
 http://srvx.io:80/49119217125/snakeplay/71858
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 FHD
-http://srvx.io:80/49119217125/snakeplay/71859
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
 http://srvx.io:80/49119217125/snakeplay/71860
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 SD
-http://srvx.io:80/49119217125/snakeplay/71861
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
 http://srvx.io:80/49119217125/snakeplay/72630
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
@@ -345,8 +307,6 @@ http://srvx.io:80/49119217125/snakeplay/71896
 http://srvx.io:80/49119217125/snakeplay/71897
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
 http://srvx.io:80/49119217125/snakeplay/71898
-#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
-http://srvx.io:80/49119217125/snakeplay/71899
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
 http://srvx.io:80/49119217125/snakeplay/71900
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
@@ -355,12 +315,6 @@ http://srvx.io:80/49119217125/snakeplay/71901
 http://srvx.io:80/49119217125/snakeplay/71902
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
 http://srvx.io:80/49119217125/snakeplay/71903
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 HD
-http://srvx.io:80/49119217125/snakeplay/71904
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 2 HD
-http://srvx.io:80/49119217125/snakeplay/71905
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 3 HD
-http://srvx.io:80/49119217125/snakeplay/71906
 #EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 FHD
 http://srvx.io:80/49119217125/snakeplay/73254
 #EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 FHD
@@ -449,8 +403,6 @@ http://srvx.io:80/49119217125/snakeplay/71941
 http://srvx.io:80/49119217125/snakeplay/71942
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD
 http://srvx.io:80/49119217125/snakeplay/71943
-#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD [H265]
-http://srvx.io:80/49119217125/snakeplay/71944
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
 http://srvx.io:80/49119217125/snakeplay/71945
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
@@ -511,8 +463,6 @@ http://srvx.io:80/49119217125/snakeplay/71975
 http://srvx.io:80/49119217125/snakeplay/71976
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas HD
 http://srvx.io:80/49119217125/snakeplay/71977
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
-http://srvx.io:80/49119217125/snakeplay/71978
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD [H265]
 http://srvx.io:80/49119217125/snakeplay/72590
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
@@ -597,8 +547,6 @@ http://srvx.io:80/49119217125/snakeplay/72011
 http://srvx.io:80/49119217125/snakeplay/72012
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
 http://srvx.io:80/49119217125/snakeplay/72013
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-http://srvx.io:80/49119217125/snakeplay/72014
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
 http://srvx.io:80/49119217125/snakeplay/72015
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
@@ -629,8 +577,6 @@ http://srvx.io:80/49119217125/snakeplay/72025
 http://srvx.io:80/49119217125/snakeplay/72026
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
 http://srvx.io:80/49119217125/snakeplay/72027
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba FHD
-http://srvx.io:80/49119217125/snakeplay/72625
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba HD
 http://srvx.io:80/49119217125/snakeplay/72626
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba SD
@@ -905,16 +851,10 @@ http://srvx.io:80/49119217125/snakeplay/72155
 http://srvx.io:80/49119217125/snakeplay/72156
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
 http://srvx.io:80/49119217125/snakeplay/72157
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Liga Futsal 2020 HD
-http://srvx.io:80/49119217125/snakeplay/73006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
 http://srvx.io:80/49119217125/snakeplay/72158
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
 http://srvx.io:80/49119217125/snakeplay/72159
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like HD
-http://srvx.io:80/49119217125/snakeplay/72160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
-http://srvx.io:80/49119217125/snakeplay/72161
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
 http://srvx.io:80/49119217125/snakeplay/73004
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat FHD
@@ -1107,8 +1047,6 @@ http://srvx.io:80/49119217125/snakeplay/72258
 http://srvx.io:80/49119217125/snakeplay/72259
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
 http://srvx.io:80/49119217125/snakeplay/72260
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
-http://srvx.io:80/49119217125/snakeplay/72261
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
 http://srvx.io:80/49119217125/snakeplay/72264
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
@@ -1137,16 +1075,8 @@ http://srvx.io:80/49119217125/snakeplay/72273
 http://srvx.io:80/49119217125/snakeplay/72976
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Brasilia HD
 http://srvx.io:80/49119217125/snakeplay/72629
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália FHD
-http://srvx.io:80/49119217125/snakeplay/72274
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália HD
 http://srvx.io:80/49119217125/snakeplay/72275
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália SD
-http://srvx.io:80/49119217125/snakeplay/72276
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias FHD
-http://srvx.io:80/49119217125/snakeplay/72277
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias HD
-http://srvx.io:80/49119217125/snakeplay/72278
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias SD
 http://srvx.io:80/49119217125/snakeplay/72279
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP FHD
@@ -1203,8 +1133,6 @@ http://srvx.io:80/49119217125/snakeplay/72298
 http://srvx.io:80/49119217125/snakeplay/72299
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV SD
 http://srvx.io:80/49119217125/snakeplay/72300
-#EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",RIT TV SD
-http://srvx.io:80/49119217125/snakeplay/72301
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD
 http://srvx.io:80/49119217125/snakeplay/72303
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD [H265]
@@ -1225,10 +1153,6 @@ http://srvx.io:80/49119217125/snakeplay/72309
 http://srvx.io:80/49119217125/snakeplay/72598
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT TV Alterosa HD
 http://srvx.io:80/49119217125/snakeplay/72621
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
-http://srvx.io:80/49119217125/snakeplay/72311
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",SIC Internacional SD
-http://srvx.io:80/49119217125/snakeplay/72312
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD
 http://srvx.io:80/49119217125/snakeplay/72313
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD [H265]
@@ -1349,8 +1273,6 @@ http://srvx.io:80/49119217125/snakeplay/72367
 http://srvx.io:80/49119217125/snakeplay/72368
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch SD
 http://srvx.io:80/49119217125/snakeplay/72369
-#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Religiosos",Terra Viva SD
-http://srvx.io:80/49119217125/snakeplay/72370
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD
 http://srvx.io:80/49119217125/snakeplay/72371
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD [H265]
@@ -1405,8 +1327,6 @@ http://srvx.io:80/49119217125/snakeplay/72395
 http://srvx.io:80/49119217125/snakeplay/72396
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD
 http://srvx.io:80/49119217125/snakeplay/72397
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil 2 SD
-http://srvx.io:80/49119217125/snakeplay/72398
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD
 http://srvx.io:80/49119217125/snakeplay/72399
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD [H265]
@@ -1415,8 +1335,6 @@ http://srvx.io:80/49119217125/snakeplay/72400
 http://srvx.io:80/49119217125/snakeplay/72401
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil SD
 http://srvx.io:80/49119217125/snakeplay/72402
-#EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos",TV Camara SD
-http://srvx.io:80/49119217125/snakeplay/72403
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",TV Cancao Nova SD
 http://srvx.io:80/49119217125/snakeplay/72404
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Fortaleza HD
@@ -1447,10 +1365,6 @@ http://srvx.io:80/49119217125/snakeplay/72414
 http://srvx.io:80/49119217125/snakeplay/72415
 #EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
 http://srvx.io:80/49119217125/snakeplay/72416
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV WA SD
-http://srvx.io:80/49119217125/snakeplay/72417
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV5 Monde SD
-http://srvx.io:80/49119217125/snakeplay/72418
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD
 http://srvx.io:80/49119217125/snakeplay/72419
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
@@ -1491,16 +1405,6 @@ http://srvx.io:80/49119217125/snakeplay/72436
 http://srvx.io:80/49119217125/snakeplay/72437
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
 http://srvx.io:80/49119217125/snakeplay/72438
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] Playboy TV FHD
-http://srvx.io:80/49119217125/snakeplay/72221
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] Playboy TV FHD [H265]
-http://srvx.io:80/49119217125/snakeplay/72224
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] Playboy TV HD
-http://srvx.io:80/49119217125/snakeplay/72222
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] Playboy TV SD
-http://srvx.io:80/49119217125/snakeplay/72223
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot SD
-http://srvx.io:80/49119217125/snakeplay/72310
 #EXTINF:-1 tvg-logo="http://a5.vc/IJJ" group-title="Canais | 24 Horas",[24H] 101 Dalmatas
 http://srvx.io:80/49119217125/snakeplay/47458
 #EXTINF:-1 tvg-logo="http://a5.vc/84v" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
@@ -1660,69 +1564,6 @@ http://srvx.io:80/49119217125/snakeplay/47535
 #EXTINF:-1 tvg-logo="http://a5.vc/B22" group-title="Canais | 24 Horas",[24H] Caezinhos do Canil
 http://srvx.io:80/49119217125/snakeplay/47536
 #EXTINF:-1 tvg-logo="http://a5.vc/KhE" group-title="Canais | 24 Horas",[24H] Campeoes do Sedokai
-http://srvx.io:80/49119217125/snakeplay/47537
-#EXTINF:-1 tvg-logo="http://a5.vc/VoJ" group-title="Canais | YouTube",[24H] Canal YouTube - 4 Amigos Stand Up Comedy
-http://srvx.io:80/49119217125/snakeplay/47538
-#EXTINF:-1 tvg-logo="http://a5.vc/Ofv" group-title="Canais | YouTube",[24H] Canal YouTube - 5 Alguma Coisa
-http://srvx.io:80/49119217125/snakeplay/47539
-#EXTINF:-1 tvg-logo="http://a5.vc/noo" group-title="Canais | YouTube",[24H] Canal YouTube - Badin
-http://srvx.io:80/49119217125/snakeplay/47540
-#EXTINF:-1 tvg-logo="http://a5.vc/rj2" group-title="Canais | YouTube",[24H] Canal YouTube - Barbixas
-http://srvx.io:80/49119217125/snakeplay/47541
-#EXTINF:-1 tvg-logo="http://a5.vc/XmK" group-title="Canais | YouTube",[24H] Canal YouTube - BOOM
-http://srvx.io:80/49119217125/snakeplay/47542
-#EXTINF:-1 tvg-logo="http://a5.vc/J9o" group-title="Canais | YouTube",[24H] Canal YouTube - Carol kyoko
-http://srvx.io:80/49119217125/snakeplay/47543
-#EXTINF:-1 tvg-logo="http://a5.vc/qek" group-title="Canais | YouTube",[24H] Canal YouTube - Ciencia Todo Dia
-http://srvx.io:80/49119217125/snakeplay/47544
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - Dramaturgia Panico na TV
-http://srvx.io:80/49119217125/snakeplay/47545
-#EXTINF:-1 tvg-logo="http://a5.vc/skQ" group-title="Canais | YouTube",[24H] Canal YouTube - Edu Primitivo
-http://srvx.io:80/49119217125/snakeplay/47546
-#EXTINF:-1 tvg-logo="http://a5.vc/Ke2" group-title="Canais | YouTube",[24H] Canal YouTube - Encrenca RedeTV
-http://srvx.io:80/49119217125/snakeplay/47547
-#EXTINF:-1 tvg-logo="http://a5.vc/uMp" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Desconhecidos
-http://srvx.io:80/49119217125/snakeplay/47548
-#EXTINF:-1 tvg-logo="http://a5.vc/5Lr" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Insanos
-http://srvx.io:80/49119217125/snakeplay/47549
-#EXTINF:-1 tvg-logo="http://a5.vc/gKl" group-title="Canais | YouTube",[24H] Canal YouTube - FitDance
-http://srvx.io:80/49119217125/snakeplay/47550
-#EXTINF:-1 tvg-logo="http://a5.vc/mKa" group-title="Canais | YouTube",[24H] Canal YouTube - Gerson Albuquerque
-http://srvx.io:80/49119217125/snakeplay/47551
-#EXTINF:-1 tvg-logo="http://a5.vc/xas" group-title="Canais | YouTube",[24H] Canal YouTube - INCRIVEL
-http://srvx.io:80/49119217125/snakeplay/47552
-#EXTINF:-1 tvg-logo="http://a5.vc/Olw" group-title="Canais | YouTube",[24H] Canal YouTube - John Leitao
-http://srvx.io:80/49119217125/snakeplay/47553
-#EXTINF:-1 tvg-logo="http://a5.vc/peH" group-title="Canais | YouTube",[24H] Canal YouTube - MASTER TRASH e PANICO CHEF
-http://srvx.io:80/49119217125/snakeplay/47554
-#EXTINF:-1 tvg-logo="http://a5.vc/2gm" group-title="Canais | YouTube",[24H] Canal YouTube - MixReynold
-http://srvx.io:80/49119217125/snakeplay/47555
-#EXTINF:-1 tvg-logo="http://a5.vc/B2I" group-title="Canais | YouTube",[24H] Canal YouTube - Na CorreRia
-http://srvx.io:80/49119217125/snakeplay/47556
-#EXTINF:-1 tvg-logo="http://a5.vc/nPQ" group-title="Canais | YouTube",[24H] Canal YouTube - Pagode da Ofensa na Web
-http://srvx.io:80/49119217125/snakeplay/47557
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - PANICO TROLLAGENS
-http://srvx.io:80/49119217125/snakeplay/47558
-#EXTINF:-1 tvg-logo="http://a5.vc/CBH" group-title="Canais | YouTube",[24H] Canal YouTube - Parafernalha
-http://srvx.io:80/49119217125/snakeplay/47559
-#EXTINF:-1 tvg-logo="http://a5.vc/ldO" group-title="Canais | YouTube",[24H] Canal YouTube - Porta dos Fundos
-http://srvx.io:80/49119217125/snakeplay/47560
-#EXTINF:-1 tvg-logo="http://a5.vc/6PY" group-title="Canais | YouTube",[24H] Canal YouTube - Rabisco
-http://srvx.io:80/49119217125/snakeplay/47561
-#EXTINF:-1 tvg-logo="http://a5.vc/J1Q" group-title="Canais | YouTube",[24H] Canal YouTube - Refugio Mental
-http://srvx.io:80/49119217125/snakeplay/47562
-#EXTINF:-1 tvg-logo="http://a5.vc/Sny" group-title="Canais | YouTube",[24H] Canal YouTube - South America Memes
-http://srvx.io:80/49119217125/snakeplay/47563
-#EXTINF:-1 tvg-logo="http://a5.vc/QeF" group-title="Canais | YouTube",[24H] Canal YouTube - Voce na TV
-http://srvx.io:80/49119217125/snakeplay/47564
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 1
-http://srvx.io:80/49119217125/snakeplay/47565
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 2
-http://srvx.io:80/49119217125/snakeplay/47566
-#EXTINF:-1 tvg-logo="http://a5.vc/7dA" group-title="Canais | YouTube",[24H] Canal YouTube - WEBBULLYING
-http://srvx.io:80/49119217125/snakeplay/47567
-#EXTINF:-1 tvg-logo="http://a5.vc/CPx" group-title="Canais | YouTube",[24H] Canal YouTube - Ze Pequeno do Povo
-http://srvx.io:80/49119217125/snakeplay/47568
 #EXTINF:-1 tvg-logo="http://a5.vc/Mrn" group-title="Canais | 24 Horas",[24H] Capitao Lento - Curta Metragem
 http://srvx.io:80/49119217125/snakeplay/47569
 #EXTINF:-1 tvg-logo="http://a5.vc/Lhe" group-title="Canais | 24 Horas",[24H] Capitao Planeta
