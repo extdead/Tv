@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://i.imgur.com/08SucJq.png" group-title="Not�cias",BandNews
 http://189.91.128.150:5555/udp/227.10.20.131:1234
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://i.imgur.com/fuKwYWn.png" group-title="Filmes e S�ries",Comedy Central HD
