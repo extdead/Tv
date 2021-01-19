@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(24H) 101 Dalmatas" tvg-logo="https://i.imgur.com/8xja0TS.png" group-title="Canais @ 24 Horas",(24H) 101 Dalmatas
 #EXTINF:0,http://201.1.151.74:2083/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(24H) 3 Palavrinhas" tvg-logo="http://eyplay.io:80/images/2507eedaf612ea558f8e5182a959bddf.png" group-title="Canais @ 24 Horas",(24H) 3 Palavrinhas
-http://esrv.cc:80/live/luciane1234/luciane1234/30784.m3u8
+http://201.1.151.74:2083/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(24H) A Bruxinha Sabrina" tvg-logo="http://eyplay.io:80/images/aa306f9fd08b73000296587626987363.png" group-title="Canais @ 24 Horas",(24H) A Bruxinha Sabrina
 http://esrv.cc:80/live/luciane1234/luciane1234/30785.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(24H) A Cegonha Perna Fina" tvg-logo="http://eyplay.io:80/images/034126a2626be2a512f08234595dad23.jpg" group-title="Canais @ 24 Horas",(24H) A Cegonha Perna Fina
